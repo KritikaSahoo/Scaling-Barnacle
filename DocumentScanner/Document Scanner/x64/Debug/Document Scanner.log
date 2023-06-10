@@ -1,0 +1,25 @@
+﻿  sourcecode.cpp
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(46,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(50,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(102,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(102,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(108,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(138,32): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\Document Scanner\sourcecode.cpp(138,19): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Document Scanner.vcxproj -> C:\Users\HP\OneDrive\Desktop\Repo\Document Scanner\x64\Debug\Document Scanner.exe
